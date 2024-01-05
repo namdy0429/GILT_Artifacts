@@ -10,7 +10,7 @@ Up-to-date artifacts are available here: [https://github.com/namdy0429/GILT_Arti
 
 There are two main components in this repository.
 
-#### GILT (Generation-based Information-support with LLM Technology): [`/GILT_Artifacts/GILT`](https://github.com/namdy0429/GILT_Artifacts/tree/main/Plugin)
+#### GILT (Generation-based Information-support with LLM Technology): [`/GILT_Artifacts/GILT`](https://github.com/namdy0429/GILT_Artifacts/tree/main/GILT)
 
 How to install this plugin is included in [`/GILT_Artifacts/Install.md`](https://github.com/namdy0429/GILT_Artifacts/blob/main/INSTALL.md), and [`/GILT_Artifacts/GILT/overview.png`](https://github.com/namdy0429/GILT_Artifacts/blob/main/Plugin/overview.png) shows how to use the Plugin.
 
