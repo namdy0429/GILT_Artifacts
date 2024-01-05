@@ -1,4 +1,4 @@
-# SOREL
+# GILT Artifacts
 
 ## Paper
 
