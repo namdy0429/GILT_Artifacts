@@ -22,3 +22,5 @@ User study result data can be found [`/GILT_Artifacts/Study/study_data.csv`](htt
 [`/GILT_Artifacts/Install.md`](https://github.com/namdy0429/GILT_Artifacts/blob/main/INSTALL.md) describes how to set up R-Notebook environment to run this Notebook.
 Study protocol and task designs are also included in [`/GILT_Artifacts/design/`](https://github.com/namdy0429/GILT_Artifacts/tree/main/study/design) and [`/GILT_Artifacts/tasks/`](https://github.com/namdy0429/GILT_Artifacts/tree/main/study/design/tasks).
 
+# STATUS
+We are applying for **Functional** and **Available** badges. The artifacts are made public and permanently archived. We also believe that the artifacts are well documented and easily exercisable by other researchers.
