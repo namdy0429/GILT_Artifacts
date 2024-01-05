@@ -23,4 +23,4 @@ User study result data can be found [`/GILT_Artifacts/Study/study_data.csv`](htt
 Study protocol and task designs are also included in [`/GILT_Artifacts/design/`](https://github.com/namdy0429/GILT_Artifacts/tree/main/study/design) and [`/GILT_Artifacts/tasks/`](https://github.com/namdy0429/GILT_Artifacts/tree/main/study/design/tasks).
 
 ## STATUS
-We are applying for **Functional** and **Available** badges. The artifacts are made public and permanently archived. We also believe that the artifacts are well documented and easily exercisable by other researchers.
+We are applying for **Available** and **Reusable** badges. The artifacts are made public and permanently archived. We also believe that the artifacts are well documented and easily exercisable by other researchers.
