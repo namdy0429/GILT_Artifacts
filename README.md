@@ -14,11 +14,11 @@ There are two main components in this repository.
 
 How to install this plugin is included in [`/GILT_Artifacts/Install.md`](https://github.com/namdy0429/GILT_Artifacts/blob/main/INSTALL.md), and [`/GILT_Artifacts/GILT/overview.png`](https://github.com/namdy0429/GILT_Artifacts/blob/main/GILT/overview.png) shows how to use the Plugin.
 
-#### Replication package for the user study analysis: [`/GILT_Artifacts/Study`](https://github.com/namdy0429/GILT_Artifacts/tree/main/Study)
+#### Replication package for the user study analysis: [`/GILT_Artifacts/Study`](https://github.com/namdy0429/GILT_Artifacts/tree/main/study)
 
-You can replicate the statistical analysis included in the paper by running [`/GILT_Artifacts/Study/analysis.ipynb`](https://github.com/namdy0429/GILT_Artifacts/blob/main/Study/analysis.ipynb).
+You can replicate the statistical analysis included in the paper by running [`/GILT_Artifacts/Study/analysis.ipynb`](https://github.com/namdy0429/GILT_Artifacts/blob/main/study/analysis.ipynb).
 
-User study result data can be found [`/GILT_Artifacts/Study/study_data.csv`](https://github.com/namdy0429/GILT_Artifacts/blob/main/Study/study_data.csv). 
+User study result data can be found [`/GILT_Artifacts/Study/study_data.csv`](https://github.com/namdy0429/GILT_Artifacts/blob/main/study/study_data.csv). 
 [`/SOREL/Install.md`](https://github.com/namdy0429/SOREL/blob/main/INSTALL.md) describes how to set up R-Notebook environment to run this Notebook.
-Study protocol and task designs are also included in [`/GILT_Artifacts/design/`](https://github.com/namdy0429/GILT_Artifacts/blob/main/Study/Study%20Protocol.pdf) and [`/GILT_Artifacts/Tasks.pdf`](https://github.com/namdy0429/GILT_Artifacts/blob/main/Study/Tasks.pdf).
+Study protocol and task designs are also included in [`/GILT_Artifacts/design/`](https://github.com/namdy0429/GILT_Artifacts/tree/main/study/design) and [`/GILT_Artifacts/tasks/`](https://github.com/namdy0429/GILT_Artifacts/tree/main/study/design/tasks).
 
