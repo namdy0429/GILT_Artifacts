@@ -6,7 +6,7 @@ Daye Nam, Brad Myers, Bogdan Vasilescu, and Vincent Hellendoorn, "Using an LLM t
 
 ## Artifacts
 
-Up-to-date artifacts are available here: [https://github.com/namdy0429/GILT](https://github.com/namdy0429/GILT_Artifacts)
+Up-to-date artifacts are available here: [https://github.com/namdy0429/GILT_Artifacts](https://github.com/namdy0429/GILT_Artifacts)
 
 There are two main components in this repository.
 
