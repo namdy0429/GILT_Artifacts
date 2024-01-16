@@ -66,6 +66,3 @@ Configurations that may be useful to adjust include:
 
 If you encounter error messages from GPT API requests, please refer to this [Error codes](https://platform.openai.com/docs/guides/error-codes) for detailed information.
 
----
-
-This revised README should provide a clearer and more organized overview of your VS Code plugin, GILT.
