@@ -4,6 +4,10 @@
 
 Daye Nam, Brad Myers, Bogdan Vasilescu, and Vincent Hellendoorn, "Using an LLM to Help With Code Understanding," ICSE 2024.
 
+## Tool
+
+GILT is available in the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=dayen.gilt).
+
 ## Artifacts
 
 Up-to-date artifacts are available here: [https://github.com/namdy0429/GILT_Artifacts](https://github.com/namdy0429/GILT_Artifacts)
@@ -12,7 +16,6 @@ There are two main components in this repository.
 
 #### GILT (Generation-based Information-support with LLM Technology): [`/GILT_Artifacts/GILT`](https://github.com/namdy0429/GILT_Artifacts/tree/main/GILT)
 
-GILT is available in the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=dayen.gilt).
 [`/GILT_Artifacts/GILT/README.md`](https://github.com/namdy0429/GILT_Artifacts/tree/main/GILT), [`/GILT_Artifacts/GILT/overview.png`](https://github.com/namdy0429/GILT_Artifacts/blob/main/GILT/overview.png), and [`GILT_Artifacts/GILT/demo.mov`](https://github.com/namdy0429/GILT_Artifacts/blob/main/GILT/demo.mov) show how to use GILT.
 
 #### Replication package for the user study analysis: [`/GILT_Artifacts/study`](https://github.com/namdy0429/GILT_Artifacts/tree/main/study)
